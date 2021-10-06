@@ -17,4 +17,9 @@ npm install styled-components
 ```js
 npm install -D @types/styled-components
 ```
-# Lista_Tarefas_TypeScript_React_JS
+
+## Professor Bonieky, aula Youtube
+
+```js
+https://www.youtube.com/watch?v=95sAtAareR8
+```
