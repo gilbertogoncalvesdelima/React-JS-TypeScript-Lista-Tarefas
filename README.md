@@ -23,3 +23,9 @@ npm install -D @types/styled-components
 ```js
 https://www.youtube.com/watch?v=95sAtAareR8
 ```
+
+## Link para visualizar o projeto
+
+```js
+https://lista-tarefa-typescript-react-js.netlify.app/
+```
